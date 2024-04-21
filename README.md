@@ -41,18 +41,18 @@ bash
 Copy code
 java Main
 Follow the on-screen instructions to provide input (process details) and observe the scheduling results.
-Algorithms
+# Algorithms
 First-Come, First-Served (FCFS)
 FCFS is a simple scheduling algorithm that schedules processes based on their arrival time. The process that arrives first gets executed first.
 
-Guaranteed Base Group (GBG)
+## Guaranteed Base Group (GBG)
 GBG is another scheduling algorithm that prioritizes processes based on their arrival time. Additional details about GBG can be found in the corresponding Java class.
 
-Round Robin (RR)
+## Round Robin (RR)
 Round Robin is a preemptive scheduling algorithm that assigns a fixed time slice (time quantum) to each process. If a process doesn't finish within its time quantum, it's placed back in the queue to be executed later.
 
-Contributing
+## Contributing
 Contributions to this repository are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
