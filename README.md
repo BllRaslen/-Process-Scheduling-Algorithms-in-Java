@@ -42,7 +42,7 @@ Copy code
 java Main
 Follow the on-screen instructions to provide input (process details) and observe the scheduling results.
 # Algorithms
-First-Come, First-Served (FCFS)
+## First-Come, First-Served (FCFS)
 FCFS is a simple scheduling algorithm that schedules processes based on their arrival time. The process that arrives first gets executed first.
 
 ## Guaranteed Base Group (GBG)
